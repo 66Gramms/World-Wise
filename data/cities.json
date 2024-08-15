@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Kecskemet",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2000-03-09T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 46.9009243,
+        "lng": 19.6201969
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2021-02-15T09:24:11.863Z",
+      "notes": "Crap 😃",
+      "position": {
+        "lat": 47.49687098971853,
+        "lng": 19.072617731062003
+      },
+      "id": 2
     }
   ]
 }
