@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,7 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
     },
     {
       "cityName": "Kecskemet",
@@ -46,7 +46,7 @@
         "lat": 46.9009243,
         "lng": 19.6201969
       },
-      "id": 1
+      "id": "1"
     },
     {
       "cityName": "Budapest",
@@ -58,7 +58,127 @@
         "lat": 47.49687098971853,
         "lng": 19.072617731062003
       },
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "144d",
+      "cityName": "Nurri",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-10-13T12:18:35.188Z",
+      "notes": "",
+      "position": {
+        "lat": "39.73253798438333",
+        "lng": "9.228515624900401"
+      }
+    },
+    {
+      "id": "ebc1",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-10-13T12:23:22.411Z",
+      "notes": "Putin",
+      "position": {
+        "lat": "55.751849391735284",
+        "lng": "37.58422851562501"
+      }
+    },
+    {
+      "id": "3842",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-07T13:25:23.000Z",
+      "notes": "",
+      "position": {
+        "lat": "51.481382896100975",
+        "lng": "-0.06591796875000001"
+      }
+    },
+    {
+      "id": "3e7f",
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-10-13T12:25:48.230Z",
+      "notes": "",
+      "position": {
+        "lat": "52.24125614966341",
+        "lng": "21.225585937500004"
+      }
+    },
+    {
+      "id": "4197",
+      "cityName": "Subotica",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2024-10-13T12:26:17.966Z",
+      "notes": "",
+      "position": {
+        "lat": "46.08847179577592",
+        "lng": "19.742431640625004"
+      }
+    },
+    {
+      "id": "4d5c",
+      "cityName": "Gelse",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-10-13T12:27:56.527Z",
+      "notes": "",
+      "position": {
+        "lat": "46.59661864884465",
+        "lng": "17.028808593750004"
+      }
+    },
+    {
+      "id": "d163",
+      "cityName": "Gelse",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-10-13T12:27:56.527Z",
+      "notes": "",
+      "position": {
+        "lat": "46.59661864884465",
+        "lng": "17.028808593750004"
+      }
+    },
+    {
+      "id": "7b32",
+      "cityName": "Gelse",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-10-13T12:27:56.527Z",
+      "notes": "",
+      "position": {
+        "lat": "46.59661864884465",
+        "lng": "17.028808593750004"
+      }
+    },
+    {
+      "id": "1aaf",
+      "cityName": "Gelse",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-10-13T12:27:56.527Z",
+      "notes": "",
+      "position": {
+        "lat": "46.59661864884465",
+        "lng": "17.028808593750004"
+      }
+    },
+    {
+      "id": "8c82",
+      "cityName": "Amenucourt",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-13T12:28:49.263Z",
+      "notes": "",
+      "position": {
+        "lat": "49.109837790524416",
+        "lng": "1.6479492187500002"
+      }
     }
   ]
 }
