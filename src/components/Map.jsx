@@ -1,4 +1,5 @@
-import { useNavigate, useSearchParams } from "react-router-dom";
+/* eslint-disable react/prop-types */
+import { useNavigate } from "react-router-dom";
 import {
   MapContainer,
   TileLayer,
@@ -14,7 +15,7 @@ import { useGeolocation } from "../hooks/useGeolocation";
 import { useUrlPosition } from "../hooks/useUrlPosition";
 import Button from "./Button";
 
-export default function Map({}) {
+export default function Map() {
   const { cities } = useCities();
   const [mapPosition, setMapPosition] = useState([40, 0]);
   const {
@@ -41,7 +42,7 @@ export default function Map({}) {
         );
       }
     },
-    [geolocationPosition]
+    [geolocationPosition, navigate]
   );
 
   return (
